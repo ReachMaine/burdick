@@ -40,10 +40,30 @@ i.fa-pull-right {
 
 /*** slidebar in oshine slidebar is above main content *** */
 /*  header stuff - here */
-#navigation .sub-menu {
-  top: 70%; }
+header .style1 .logo {
+  padding-top: 0px;
+  padding-bottom: 15px; }
+header #header-top-bar-right {
+  position: relative;
+  top: 20px;
+  padding: 0px 20px; }
+header .style1 #navigation {
+  line-height: 85px; }
+  header .style1 #navigation .sub-menu {
+    top: 90%; }
+  header .style1 #navigation ul#menu > li > a {
+    top: 15px; }
 
 /*** styling of content */
+.rev_slider .tp-caption {
+  text-shadow: 2px 2px 3px black; }
+
+#main-wrapper #main.layout-border {
+  padding-top: 20px; }
+
+#main-wrapper #back-to-top {
+  background: #424242 !important; }
+
 /** sidebar
 
 /** footer **/
