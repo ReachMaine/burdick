@@ -40,6 +40,9 @@ i.fa-pull-right {
 
 /*** slidebar in oshine slidebar is above main content *** */
 /*  header stuff - here */
+#navigation .sub-menu {
+  top: 70%; }
+
 /*** styling of content */
 /** sidebar
 
