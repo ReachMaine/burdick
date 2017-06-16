@@ -64,6 +64,10 @@ header .style1 #navigation {
 #main-wrapper #back-to-top {
   background: #424242 !important; }
 
+.wpcf7-response-output.wpcf7-mail-sent-ok {
+  color: white;
+  background-color: #424242; }
+
 /** sidebar
 
 /** footer **/

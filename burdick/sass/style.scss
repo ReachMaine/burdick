@@ -56,6 +56,11 @@ header {
 #main-wrapper #back-to-top {
 	background: #424242 !important;
 }
+// contact form 7
+.wpcf7-response-output.wpcf7-mail-sent-ok {
+	color: white;
+	background-color: $dark-grey ;
+}
 
 /** sidebar
 
