@@ -94,3 +94,6 @@ header .style1 #navigation {
 
 /* *** keep this at the end *** */
 /* **** media **** */
+@media only screen and (max-width: 767px) {
+  #main-wrapper #header .logo .tatsu-module.tatsu-icon-group {
+    text-align: right; } }
