@@ -49,6 +49,10 @@ input[type="submit"] {
   letter-spacing: 1px;
   border-radius: 3px; }
 
+.owl-next .font-icon,
+.owl-prev .font-icon {
+  font-size: 40px; }
+
 /*** slidebar in oshine slidebar is above main content *** */
 /*  header stuff - here */
 header .style1 .logo {

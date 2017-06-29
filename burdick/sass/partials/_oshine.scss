@@ -32,3 +32,8 @@ input[type="submit"] {
 	letter-spacing: 1px;
 	border-radius: 3px;
 }
+// up the size of the arrows on before & after slide shows
+.owl-next .font-icon,
+.owl-prev .font-icon {
+	 font-size: 40px;
+}
