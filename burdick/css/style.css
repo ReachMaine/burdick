@@ -57,18 +57,20 @@ input[type="submit"] {
 
 /*** slidebar in oshine slidebar is above main content *** */
 /*  header stuff - here */
-header .style1 .logo {
+#header .style1 .logo {
   padding-top: 0px;
-  padding-bottom: 15px; }
-header #header-top-bar-right {
+  margin-left: 0px !important; }
+#header .style1 #navigation {
+  margin-right: 0px !important; }
+#header #header-top-bar-right {
   position: relative;
   top: 20px;
   padding: 0px 20px; }
-header .style1 #navigation {
+#header .style1 #navigation {
   line-height: 85px; }
-  header .style1 #navigation .sub-menu {
+  #header .style1 #navigation .sub-menu {
     top: 90%; }
-  header .style1 #navigation ul#menu > li > a {
+  #header .style1 #navigation ul#menu > li > a {
     top: 15px; }
 
 /*** styling of content */
@@ -104,5 +106,7 @@ header .style1 #navigation {
   #main-wrapper #header #header-top-bar-right .tatsu-module.tatsu-icon-group {
     text-align: right; } }
 @media only screen and (max-width: 767px) {
+  #main-wrapper #header .logo {
+    max-width: 80%; }
   #main-wrapper #header #header-top-bar-right .tatsu-module.tatsu-icon-group {
     text-align: right; } }
