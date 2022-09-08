@@ -55,6 +55,9 @@ input[type="submit"] {
 .owl-prev .font-icon {
   font-size: 40px; }
 
+.tatsu-row.burdick-doy .oshine-module {
+  margin-bottom: 0px !important; }
+
 /*** slidebar in oshine slidebar is above main content *** */
 /*  header stuff - here */
 #header .style1 .logo {
@@ -110,3 +113,5 @@ input[type="submit"] {
     max-width: 80%; }
   #main-wrapper #header #header-top-bar-right .tatsu-module.tatsu-icon-group {
     text-align: right; } }
+
+/*# sourceMappingURL=style.css.map */
